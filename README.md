@@ -1,0 +1,2 @@
+# Multivariate Analysis of CO2 Emissions Using Machine Learning
+ The aim of this project is to use machine learning models to analyse the factors influencing CO2 emissions in France.  machine learning models. Using economic and environmental data, the  environmental data, the aim is to understand how variables such as industry, energy consumption  energy consumption and GDP per capita explain these emissions. This analysis  identifies the main factors influencing CO2 emissions. 
