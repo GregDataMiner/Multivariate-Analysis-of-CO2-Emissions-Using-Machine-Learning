@@ -3,6 +3,7 @@
 This project analyzes the **factors influencing CO2 emissions** in France through **machine learning models**. Using both **economic** and **environmental** data, the objective is to identify how variables like **industry value-added**, **energy consumption**, and **GDP per capita** affect CO2 emissions. The results provide valuable insights for policy-making and environmental management.
 
 ---
+![cover](Image/cover.png)
 
 ## **Project Overview**
 
@@ -128,4 +129,4 @@ These visualizations provide crucial insights into model performance and the key
 
 ## **Full Report**
 
-For a comprehensive analysis, including data descriptions, methodology, and detailed results, refer to the **complete project report** available in this repository as a PDF.
+For a comprehensive analysis, including data descriptions, methodology, and detailed results, refer to the **complete project report** available in this repository as a PDF as well as the csv containing the dataset and the python code.
